@@ -1,0 +1,32 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+53
+'Ingrese la clave de 4 digitos de su cuenta bancaria'
+5
+1
+5
+Clave
+9
+1
+13
+Clave != 1234
+4
+1
+70
+'Error, vuelve a ingresar la clave de 4 digitos de su cuenta bancaria'
+5
+1
+5
+Clave
+11
+4
+1
+18
+'Acceso permitido'
+1

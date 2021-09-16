@@ -1,0 +1,92 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+52
+'Ingrese el número de alumnos que asistirá al viaje'
+5
+1
+2
+Na
+7
+0
+1
+9
+Na >= 100
+7
+0
+1
+8
+Na >= 50
+7
+0
+1
+8
+Na >= 30
+6
+1
+5
+PagoA
+10
+4000000/Na
+4
+1
+32
+'Cada alumno debe pagar ', PagoA
+4
+1
+50
+'El pago a la compañía de autobuses es de 4000000'
+13
+4
+1
+31
+'Cada alumno debe pagar, 95000'
+6
+1
+1
+C
+8
+Na*95000
+4
+1
+46
+'El pago a la compañía de autobuses es de ', C
+13
+13
+4
+1
+31
+'Cada alumno debe pagar, 70000'
+6
+1
+1
+C
+8
+Na*70000
+4
+1
+46
+'El pago a la compañía de autobuses es de ', C
+13
+13
+4
+1
+31
+'Cada alumno debe pagar, 65000'
+6
+1
+1
+C
+8
+Na*65000
+4
+1
+46
+'El pago a la compañía de autobuses es de ', C
+13
+1

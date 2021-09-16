@@ -1,0 +1,51 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+55
+'Ingrese el número de personas que asistirán al evento'
+5
+1
+1
+N
+7
+0
+1
+7
+N > 300
+7
+0
+1
+7
+N > 200
+6
+1
+1
+T
+7
+N*95000
+13
+6
+1
+1
+T
+7
+N*85000
+13
+13
+6
+1
+1
+T
+7
+N*75000
+13
+4
+1
+45
+'El presupuesto para los banquetes es de ', T
+1

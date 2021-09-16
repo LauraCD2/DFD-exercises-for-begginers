@@ -1,0 +1,36 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+38
+'Ingrese las 3 notas de la asignatura'
+5
+1
+10
+N1, N2, N3
+6
+1
+1
+T
+12
+(N1+N2+N3)/3
+7
+0
+1
+6
+T > 75
+4
+1
+39
+'El estudiante NO aprobó la asignatura'
+13
+4
+1
+36
+'El estudiante aprobó la asignatura'
+13
+1

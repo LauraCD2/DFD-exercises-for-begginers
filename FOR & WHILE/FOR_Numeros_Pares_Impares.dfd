@@ -1,0 +1,73 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+83
+'Ingrese los dos números entre los cuales deseas saber los números pares e impares'
+5
+1
+6
+N1, N2
+4
+1
+25
+'Los números pares son: '
+8
+1
+1
+i
+1
+2
+N1
+1
+2
+N2
+1
+1
+1
+7
+0
+1
+11
+i mod 2 = 0
+13
+4
+1
+1
+i
+13
+10
+4
+1
+27
+'Los números impares son: '
+8
+1
+1
+i
+1
+2
+N1
+1
+2
+N2
+1
+1
+1
+7
+0
+1
+11
+i mod 2 = 1
+13
+4
+1
+1
+i
+13
+10
+1

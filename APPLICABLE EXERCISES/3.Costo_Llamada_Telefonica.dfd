@@ -1,0 +1,102 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+489
+'Ingresar los siguientes datos:                                              Tiempo de duración de la llamada en minutos                                                                                                                El día: Domingo("D"), Lunes ("L"), Martes ("Ma"), Miercoles ("Mi"), Jueves ("J"), Viernes ("V")                                                                                                                     El turno: Matutino ("Ma"), Vespertino ("Ve")'
+5
+1
+18
+Tiempo, Dia, Turno
+7
+0
+1
+11
+Tiempo <= 5
+7
+0
+1
+11
+Tiempo <= 8
+7
+0
+1
+12
+Tiempo <= 10
+6
+1
+6
+CostoT
+18
+(Tiempo-10)*50+880
+13
+6
+1
+6
+CostoT
+17
+(Tiempo-8)*70+740
+13
+13
+6
+1
+6
+CostoT
+19
+(Tiempo-5)*80 + 500
+13
+13
+6
+1
+6
+CostoT
+10
+Tiempo*100
+13
+7
+0
+1
+9
+Dia = "D"
+7
+0
+1
+12
+Turno = "Ma"
+6
+1
+8
+Impuesto
+11
+CostoT*0.10
+13
+6
+1
+8
+Impuesto
+11
+CostoT*0.15
+13
+13
+6
+1
+8
+Impuesto
+11
+CostoT*0.03
+13
+6
+1
+10
+CostoTotal
+15
+Impuesto+CostoT
+4
+1
+124
+'El cliente debe pagar por el tiempo hablado ', CostoT, ' y por el impuesto ', Impuesto, '  siendo un total de ', CostoTotal
+1
