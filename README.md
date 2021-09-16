@@ -1,4 +1,4 @@
-# DFD-execises-for-begginers
+# DFD-exercises-for-begginers
 
 Download the repo and run each file on your DFD program 
 
